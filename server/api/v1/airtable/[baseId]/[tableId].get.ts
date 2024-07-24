@@ -15,5 +15,5 @@ export default defineCachedEventHandler(
 
     return data;
   },
-  { swr: true, maxAge: 3600 }
+  { swr: true, maxAge: 3600, shouldInvalidateCache: (e) => !!getQuery(e).force }
 );
