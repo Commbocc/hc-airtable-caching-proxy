@@ -1,3 +1,7 @@
+# Force Cache Reset Example
+
+https://hc-airtable-caching-proxy.netlify.app/api/v1/airtable/appXeD3o7uTAo4Wtx/tblmQVhsdi1pbvRbj?force=1
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
